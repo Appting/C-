@@ -1,0 +1,4 @@
+﻿  chatClient.cpp
+E:\C++\即时通讯\聊天室客户端\chatClient.cpp(109,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\即时通讯\聊天室客户端\chatClient.cpp(130,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  聊天室客户端.vcxproj -> E:\C++\即时通讯\x64\Debug\聊天室客户端.exe

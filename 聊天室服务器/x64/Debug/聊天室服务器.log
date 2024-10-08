@@ -1,0 +1,4 @@
+﻿  chatServer.cpp
+E:\C++\即时通讯\聊天室服务器\chatServer.cpp(25,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\即时通讯\聊天室服务器\chatServer.cpp(91,70): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+  聊天室服务器.vcxproj -> E:\C++\即时通讯\x64\Debug\聊天室服务器.exe
